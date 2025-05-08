@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.0](https://github.com/Destiny-Research/release-versioning/compare/v1.1.0...v1.2.0) (2025-05-08)
+
+
+### Features
+
+* Upgraded version to 2.0.0 ([c6a44a5](https://github.com/Destiny-Research/release-versioning/commit/c6a44a5594168f36f9677455ce0fec0ae4084331))
+* Upgraded version to 2.0.0 ([46ce861](https://github.com/Destiny-Research/release-versioning/commit/46ce861cb5411f7b77629013469dc334e7a64995))
+
 ## [1.1.0](https://github.com/Destiny-Research/release-versioning/compare/v1.0.0...v1.1.0) (2025-05-08)
 
 

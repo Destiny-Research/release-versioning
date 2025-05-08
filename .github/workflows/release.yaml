@@ -18,6 +18,5 @@ jobs:
           release-type: simple
           version-file: version.txt
           target-branch: dev
+          skip-github-release: false
           token: ${{ secrets.RELEASE_TOKEN }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.RELEASE_TOKEN }}

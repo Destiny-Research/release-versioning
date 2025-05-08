@@ -1,5 +1,16 @@
 # Changelog
 
+## [4.0.0](https://github.com/Destiny-Research/release-versioning/compare/v3.0.0...v4.0.0) (2025-05-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* Updated readme to version 4
+
+### Features
+
+* Updated readme to version 4 ([b7d9efb](https://github.com/Destiny-Research/release-versioning/commit/b7d9efb12023c829d2e13d16850061736509d6ee))
+
 ## [3.0.0](https://github.com/Destiny-Research/release-versioning/compare/v2.0.0...v3.0.0) (2025-05-08)
 
 

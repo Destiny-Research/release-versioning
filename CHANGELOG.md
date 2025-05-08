@@ -1,5 +1,22 @@
 # Changelog
 
+## [3.0.0](https://github.com/Destiny-Research/release-versioning/compare/v2.0.0...v3.0.0) (2025-05-08)
+
+
+### ⚠ BREAKING CHANGES
+
+* Debugging 2 twin PR issue
+* Debugging twin PR issue
+* Fixed twin PR issue
+* Fixed twin PR issue
+
+### Features
+
+* Debugging 2 twin PR issue ([acce28b](https://github.com/Destiny-Research/release-versioning/commit/acce28b22841c9dea80789eff51dcbd10a87e49c))
+* Debugging twin PR issue ([4a9089b](https://github.com/Destiny-Research/release-versioning/commit/4a9089be9291ffbdd897b3deb38f62ed076c3372))
+* Fixed twin PR issue ([9268dc2](https://github.com/Destiny-Research/release-versioning/commit/9268dc299c08d39f47b0e648cf46ccb4599e9933))
+* Fixed twin PR issue ([4122465](https://github.com/Destiny-Research/release-versioning/commit/41224659f2478fe5b3200b8cb55f124f4b56c799))
+
 ## [2.0.0](https://github.com/Destiny-Research/release-versioning/compare/v1.2.0...v2.0.0) (2025-05-08)
 
 

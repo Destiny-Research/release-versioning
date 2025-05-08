@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.0](https://github.com/Destiny-Research/release-versioning/compare/v1.0.0...v1.1.0) (2025-05-08)
+
+
+### Features
+
+* Updated Readme to add version v1.0.2 ([8066032](https://github.com/Destiny-Research/release-versioning/commit/8066032a4890860bbc2a6431eecdb1e6f3a3ea15))
+* Updated Readme to add version v1.0.3 ([b673a6f](https://github.com/Destiny-Research/release-versioning/commit/b673a6f799bef072ecffa64f1c57ecfc67c8c50f))
+
 ## 1.0.0 (2025-05-08)
 
 

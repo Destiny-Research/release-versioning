@@ -19,5 +19,4 @@ jobs:
           version-file: version.txt
           target-branch: dev
           skip-release-pr: true
-          skip-github-release: false
           token: ${{ secrets.RELEASE_TOKEN }}

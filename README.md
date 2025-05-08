@@ -1,2 +1,2 @@
 Github release versioning
-v1.0.3
+v2.0.0
